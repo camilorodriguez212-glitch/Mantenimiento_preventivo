@@ -1,0 +1,5 @@
+"Fecha-Hora  (UTC)","Lat(°)","Long(°)","Prof(Km)","Mag.","Tipo Mag.","Fases","Rms(Seg)","Gap(°)","Error Lat(Km)","Error Long(Km)","Error Prof(Km)","Region","QuakeML","Fases","Mapa","Estado"
+"2020-11-26 01:08:14","4.999","-74.473","33.26","1.6","MLr_2","20","0.9","42","2.527","1.922","3.93","Villeta - Cundinamarca, Colombia","","","","manual"
+"2021-12-09 14:44:56","5.016","-74.535","43.97","1.2","MLr_2","14","0.2","79","0.778","0.778","5.70","Villeta - Cundinamarca, Colombia","","","","manual"
+"2023-08-25 23:18:14","5.001","-74.515","9.27","1.0","MLr_2","8","0.4","261","3.041","3.041","5.00","Villeta - Cundinamarca, Colombia","","","","manual"
+"2025-09-21 11:05:24","5.058","-74.534","11.12","1.5","MLr_2","15","0.7","168","1.980","1.980","2.80","Villeta - Cundinamarca, Colombia","","","","manual"
